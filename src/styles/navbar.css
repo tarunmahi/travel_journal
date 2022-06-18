@@ -1,0 +1,19 @@
+.nav{
+    display: flex;
+    height:60px;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+    background-color: #F55A5A;
+}
+.nav >img{
+    height:26px;
+}
+.nav >h2{
+    color: aliceblue;
+    font-size: 18px;
+    font-family: Inter;
+     line-height: 18px;
+letter-spacing: -0.075em;
+
+}
