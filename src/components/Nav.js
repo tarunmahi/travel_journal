@@ -6,6 +6,7 @@ export default function Nav(){
         <nav className="nav">
             <img src={img1} alt="img"></img>
             <h2>My travel journal</h2>
+            <h2>hello</h2>
         </nav>
     )
 }
