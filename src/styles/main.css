@@ -1,0 +1,13 @@
+.container-tittle >img{
+    margin-left:20px;
+}
+
+
+.container-tittle1{
+    display: flex;
+    align-items: center;
+}
+.container-tittle1 >img{
+    height:15px;
+}
+
