@@ -1,11 +1,11 @@
 .nav{
-    
+
     display: flex;
     height:60px;
     align-items: center;
     justify-content: center;
     gap: 7px;
-    background-color: #F55A5A;
+    background-color: #e38484;
 }
 
 
@@ -14,8 +14,8 @@
 }
 .nav >h2{
     color: aliceblue;
-    font-size: 18px;
-    font-family: Inter;
+    font-size: 25px;
+    font-family: 'Stylish', sans-serif;
      line-height: 18px;
 letter-spacing: -0.075em;
 

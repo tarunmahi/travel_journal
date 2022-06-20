@@ -8,6 +8,7 @@ export default function(){
   const complete = data.map((x)=>{
     return(
       <Main
+      key ={x.keyid}
       x={x}/>
     )
   })

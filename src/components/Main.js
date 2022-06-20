@@ -1,5 +1,4 @@
 import React from "react";
-import img1 from "../pictures/mount.jpg"
 import tag from "../assets/placeholder.png"
 import "../styles/main.css"
 import"../data/data.js"
@@ -13,7 +12,7 @@ export default function Main(props){
                    <div className="container-tittle1">
                      <img src={tag}></img>
                      <h2>{props.x.location}</h2>
-                     <h4 href={getValue.toString()}>view on Googgle Maps</h4>
+                     <a className="h4" href={props.x.url}>view on Googgle Maps</a>
                    </div>
                     <div className="container-tittle2">
                      <h1 >{props.x.title}</h1>

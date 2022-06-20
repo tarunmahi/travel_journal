@@ -4,7 +4,9 @@
     
     margin-top: 50px;
     margin-left: 32px;
+    margin-bottom: 20px;
     position: relative;
+    
 }
 .container-tittle{
     
@@ -32,7 +34,7 @@ letter-spacing: 0.17em;
 margin-right: 8px;
 color: #2B283A;
 }
-.container-tittle1 >h4{
+.h4{
     color: #918E9B;
     font-size: 10.24px;
 }
@@ -42,6 +44,7 @@ color: #2B283A;
 .container-tittle2{
     position: absolute;
     left:145px;
+    top:0px;
 margin-left: auto;
 font-size: 20px;
 line-height: 30px;
@@ -49,6 +52,7 @@ color: #2B283A;
 }
 .container-date{
     position: absolute;
+    
     left:145px;
     top: 85px;
     font-size: 10px;
@@ -58,5 +62,6 @@ color: #2B283A;
 font-size: 10px;
 margin-top: 90px;
 padding-right: 100px;
+
 
 }
