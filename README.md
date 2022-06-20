@@ -14,12 +14,12 @@ the above image shows the rendered website with different resolution of **Iphone
 <br/>
 the content was made adoptible with every resolution by using `css-3` code snippets.
 <br/>
-> `Figma` website was used to **scale the components** of the website which includes
+> [`Figma`](https://www.figma.com/?fuid=) website was used to **scale the components** of the website which includes
 - colours
 - sizes
 - font-weights
 - overall ratios
-     
+
 ## Components used
 - `props` in [React](https://www.javatpoint.com/react-props#:~:text=React%20Props,-Props%20stand%20for&text=It%20is%20an%20object%20which,arguments%20passed%20in%20a%20function.)  <br/>
  props helps us in passing down data more effieciently and will reduce code by a number of instances.<br/>
