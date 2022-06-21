@@ -24,4 +24,5 @@ the content was made adoptible with every resolution by using `css-3` code snipp
 - `props` in [React](https://www.javatpoint.com/react-props#:~:text=React%20Props,-Props%20stand%20for&text=It%20is%20an%20object%20which,arguments%20passed%20in%20a%20function.)  <br/>
  props helps us in passing down data more effieciently and will reduce code by a number of instances.<br/>
  **props** are passed as **parameters in the function** where the parameters are called again as objects inside the function.    
- 
+ - `map function` in [React](https://www.pluralsight.com/guides/how-to-use-the-map()-function-to-export-javascript-in-react)<br/>
+ map function in React allows us to use multiple data elements with different identities to get mapped onto the data with a single `map function()` 
