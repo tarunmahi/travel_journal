@@ -36,5 +36,13 @@ export default [
         location:"France",
         startDate:"1 Jan, 2021 - 10 Jan, 2021",
         description:"The Leaning Tower of Pisa or simply, the Tower of Pisa is the campanile, or freestanding bell tower, of Pisa Cathedral"
+    },
+    {
+        keyid:5,
+        image:"/images/giza.jpg",
+        tittle:"Giza pyramids",
+        location:"Egypt",
+        startDate:"5 Feb,2021 - 16 Feb, 2021",
+        description:"The Great Pyramid of Giza is the largest Egyptian pyramid and tomb of Fourth Dynasty pharaoh Khufu. Built in the 26th century BC during a period"
     }
 ]
