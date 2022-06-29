@@ -30,5 +30,5 @@ the content was made adoptible with every resolution by using `css-3` code snipp
 
  ## challanges faced
  - adding multiple pictures into the `data.js` file happend to be a troublesome task since mapping all of them was not quite a serene task..
- - still cant able to set the main tittle 
+ - still cant able to set the main tittle of the card in the page.
  
