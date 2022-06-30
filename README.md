@@ -26,7 +26,7 @@ the content was made adoptible with every resolution by using `css-3` code snipp
  **props** are passed as **parameters in the function** where the parameters are called again as objects inside the function.    
  - `map function` in [React](https://www.pluralsight.com/guides/how-to-use-the-map()-function-to-export-javascript-in-react)<br/>
  map function in React allows us to use multiple data elements with different identities to get mapped onto the data with a single `map function()` 
- - maps has multiple uses while building a large scale websites with multiple info labels having the same styling associated with all of them.
+ - maps has multiple use while building a large scale websites with multiple info labels having the same styling associated with all of them.
 
  ## challanges faced
  - adding multiple pictures into the `data.js` file happend to be a troublesome task since mapping all of them was not quite a serene task..
