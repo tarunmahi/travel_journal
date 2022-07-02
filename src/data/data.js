@@ -44,5 +44,8 @@ export default [
         location:"Egypt",
         startDate:"5 Feb,2021 - 16 Feb, 2021",
         description:"The Great Pyramid of Giza is the largest Egyptian pyramid and tomb of Fourth Dynasty pharaoh Khufu. Built in the 26th century BC during a period"
+    },
+    {
+        
     }
 ]
