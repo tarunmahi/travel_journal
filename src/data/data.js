@@ -47,7 +47,12 @@ export default [
     },
     {
         keyid:6,
-        image:"/images/tiru.jpg"
+        image:"/images/tiru.jpg",
+        title:"Tirupathi",
+        location:"India",
+        startDate:"27 Jun,2025 -1 Dec 2090",
+        description:"Tirupati is a city in the Indian state of Andhra Pradesh. Its Sri Venkateswara Temple sits atop one of the the 7 peaks of Tirumala Hills, attracting scores of Hindu pilgrims"
+
 
     }
 ]
