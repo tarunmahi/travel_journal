@@ -46,6 +46,8 @@ export default [
         description:"The Great Pyramid of Giza is the largest Egyptian pyramid and tomb of Fourth Dynasty pharaoh Khufu. Built in the 26th century BC during a period"
     },
     {
+        keyid:6,
+        image:"/images/tiru.jpg"
 
-    
+    }
 ]
